@@ -60,9 +60,7 @@ h6 { font-size: 16px;}
 
 .s2{
 	
-	background-color: #0cbaba;
-background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
-
+	background: linear-gradient(to bottom right, #2b5a4c 78%, #000000 24%);
 
 	border-bottom:1px solid var(--borderColor);
 	overflow:auto;
@@ -167,8 +165,7 @@ background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
 	height: 18vh;
 	justify-content: center;
 	background-color: #0cbaba;
-background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
-
+background: linear-gradient(to bottom left, #75c28c 81%, #000000 19%);
 
 	align-items: center;
 	gap: 3.5rem;
