@@ -91,6 +91,13 @@
     cursor: pointer;
   }
   .button4 {border-radius: 12px;}
+.button5 {
+      border-radius: 13px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 300;
+  }
+
+
 .text{
     position: relative;
     z-index: 4;
